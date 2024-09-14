@@ -11,12 +11,20 @@
 //abdfunction();
 
 //global variables
-$hyo = "waxaan ahy hoyo";
+//$hyo = "waxaan ahy hoyo";
+//
+//function hyofunction() {
+//
+//    $hyo = "waxaan ahy hoyo";
+//    echo $hyo;
+//
+//}
+//hyofunction();
 
-function hyofunction() {
-
-    $hyo = "waxaan ahy hoyo";
-    echo $hyo;
-
-}
-hyofunction();
+// static variable
+ function abti() {
+     static $ab = 0;
+     echo $ab++;
+ }
+ abti();
+ abti();
