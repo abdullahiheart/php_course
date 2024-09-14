@@ -22,9 +22,15 @@
 //hyofunction();
 
 // static variable
- function abti() {
-     static $ab = 0;
-     echo $ab++;
- }
- abti();
- abti();
+// function abti() {
+//     static $ab = 0;
+//     echo $ab++;
+// }
+// abti();
+// abti();
+
+// data types
+$ct=25;
+var_dump($ct);
+$kj = false;
+var_dump($kj);
