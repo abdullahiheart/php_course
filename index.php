@@ -51,7 +51,19 @@
 //echo (pi());
 // main max
 //echo (min(11,22,12,44));
-echo (max(11,22,12,44,61));
+//echo (max(11,22,12,44,61));
+
+
+//conditiosnal
+if (2<1){
+    echo "waa mahadsan tahy";
+}
+else {
+    echo "tagwaa";
+};
+
+
+
 
 
 
