@@ -30,7 +30,11 @@
 // abti();
 
 // data types
-$ct=25;
-var_dump($ct);
-$kj = false;
-var_dump($kj);
+//$ct=25;
+//var_dump($ct);
+//$kj = false;
+//var_dump($kj);
+
+//strings
+$cf= "waxaan ahy wiil";
+echo "fiican $cf";
