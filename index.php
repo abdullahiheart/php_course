@@ -36,5 +36,8 @@
 //var_dump($kj);
 
 //strings
+//$cf= "waxaan ahy wiil";
+//echo "fiican $cf";
+
 $cf= "waxaan ahy wiil";
-echo "fiican $cf";
+echo 'fiican $cf';
