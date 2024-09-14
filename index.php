@@ -42,8 +42,11 @@
 //$cf= "waxaan ahy wiil";
 //echo 'fiican $cf';
 //strlen wuxuu kusoo tirinaa tirada string
-echo strlen ("abtiiiii");
+//echo strlen ("abtiiiii");
           // str_word_count
 //wuxuu kutirinaa inta erey ay yihiin
+
+echo str_word_count("waxaa ahay wiil barta Programming");
+
 
 
