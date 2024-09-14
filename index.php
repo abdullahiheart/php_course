@@ -9,3 +9,14 @@
 //
 //}
 //abdfunction();
+
+//global variables
+$hyo = "waxaan ahy hoyo";
+
+function hyofunction() {
+
+    $hyo = "waxaan ahy hoyo";
+    echo $hyo;
+
+}
+hyofunction();
