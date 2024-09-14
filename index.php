@@ -1,3 +1,6 @@
 <?php
-echo "abdull Hearts";
+$abi= "Abdullahi Yusuf";
+echo $abi
+
 ?>
+
