@@ -48,7 +48,11 @@
 
 //echo str_word_count("waxaa ahay wiil barta Programming");
 // PHP Maths
-echo (pi());
+//echo (pi());
+// main max
+echo (min(11,22,12,44));
+
+
 
 
 
