@@ -46,7 +46,9 @@
           // str_word_count
 //wuxuu kutirinaa inta erey ay yihiin
 
-echo str_word_count("waxaa ahay wiil barta Programming");
+//echo str_word_count("waxaa ahay wiil barta Programming");
+// PHP Maths
+echo (pi());
 
 
 
