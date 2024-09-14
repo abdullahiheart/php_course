@@ -50,8 +50,8 @@
 // PHP Maths
 //echo (pi());
 // main max
-echo (min(11,22,12,44));
-
+//echo (min(11,22,12,44));
+echo (max(11,22,12,44,61));
 
 
 
