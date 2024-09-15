@@ -55,12 +55,21 @@
 
 
 //conditiosnal
-if (2<1){
-    echo "waa mahadsan tahy";
+//if (2<1){
+//    echo "waa mahadsan tahy";
+//}
+//else {
+//    echo "tagwaa";
+//};
+
+$sd = 56;
+if ($sd <25){
+    echo "waa laguu ogol yahy";
 }
-else {
-    echo "tagwaa";
-};
+else{
+    echo "maluu ogolo";
+}
+
 
 
 
